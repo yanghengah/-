@@ -36,7 +36,7 @@ public String ToString(){
 
 	```java
 public static void main(String[] args){
-		User user = new User("杨恒",20,"男","13710295382","yanghengah@163.com","广州骏域网络");
+		User user = new User("杨**",20,"男","13*******82","*********@163.com","广州********");
 		System.out.println(user.ToString());
 	}
 ```
